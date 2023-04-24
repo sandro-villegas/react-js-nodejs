@@ -12,7 +12,7 @@ import {
 } from "@chakra-ui/react";
 import { Navigate, Route, useNavigate } from "react-router-dom";
 
-//la funcion que para las vistas
+//la funcion que para las vista
 
 const Login = () => {
   const navigate = useNavigate();
